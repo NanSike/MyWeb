@@ -1,1 +1,3 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi+!+I+am+SUN;Front-end+development+learner+%E2%98%BA%EF%B8%8F;Majoring+in+Software+Engineering+%F0%9F%93%91;Hope+to+contribute+to+open+source...)
+
+<h1>How to know me</h1>
